@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Search
@@ -67,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0010-regular-expression-matching) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
