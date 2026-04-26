@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0058-length-of-last-word) |
 ## Sliding Window
 |  |
 | ------- |
