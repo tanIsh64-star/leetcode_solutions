@@ -1,18 +1,22 @@
 class Solution:
-    def subsetsWithDup(self, nums):
-        nums.sort()              
-        result = []
+    def numDecodings(self, s):
+        if not s or s[0] == '0':
+            return 0
         
-        def backtrack(start, path):
-            result.append(path[:])  
+        prev2 = 1   
+        prev1 = 1   
+        
+        for i in range(1, len(s)):
+            current = 0
             
-            for i in range(start, len(nums)):
-                if i > start and nums[i] == nums[i - 1]:
-                    continue
-                
-                path.append(nums[i])
-                backtrack(i + 1, path)
-                path.pop()
+            if s[i] != '0':
+                current += prev1
+            
+            two_digit = int(s[i-1:i+1])
+            if 10 <= two_digit <= 26:
+                current += prev2
+            
+            prev2 = prev1
+            prev1 = current
         
-        backtrack(0, [])
-        return result
+        return prev1
