@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 ## String Matching
 |  |
 | ------- |
