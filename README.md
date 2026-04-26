@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0035-search-insert-position) |
 ## Depth-First Search
 |  |
