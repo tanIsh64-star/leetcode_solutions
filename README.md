@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0055-jump-game) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Search
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0055-jump-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0055-jump-game) |
 ## Trie
 |  |
 | ------- |
