@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
 |  |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 ## String Matching
 |  |
 | ------- |
@@ -309,4 +311,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0070-climbing-stairs) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
