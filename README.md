@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Search
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
