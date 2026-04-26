@@ -1,20 +1,21 @@
 class Solution:
     def searchMatrix(self, matrix, target):
-        m = len(matrix)
-        n = len(matrix[0])
+        m, n = len(matrix), len(matrix[0])
         
-        left = 0
-        right = m * n - 1
+        left, right = 0, m * n - 1
         
         while left <= right:
             mid = (left + right) // 2
             
+            # Convert mid to 2D index
             row = mid // n
             col = mid % n
             
-            if matrix[row][col] == target:
+            value = matrix[row][col]
+            
+            if value == target:
                 return True
-            elif matrix[row][col] < target:
+            elif value < target:
                 left = mid + 1
             else:
                 right = mid - 1
