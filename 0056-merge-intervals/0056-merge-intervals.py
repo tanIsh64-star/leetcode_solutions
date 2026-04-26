@@ -1,18 +1,16 @@
 class Solution:
     def merge(self, intervals):
-        if not intervals:
-            return []
+        # Step 1: Sort by start time
+        intervals.sort()
         
-        intervals.sort(key=lambda x: x[0])
+        merged = []
         
-        merged = [intervals[0]]
-        
-        for current in intervals[1:]:
-            previous = merged[-1]
-            
-            if current[0] <= previous[1]:
-                previous[1] = max(previous[1], current[1])
+        for interval in intervals:
+            # If no overlap, add interval
+            if not merged or merged[-1][1] < interval[0]:
+                merged.append(interval)
             else:
-                merged.append(current)
+                # Merge intervals
+                merged[-1][1] = max(merged[-1][1], interval[1])
         
         return merged
