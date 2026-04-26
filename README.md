@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Search
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
