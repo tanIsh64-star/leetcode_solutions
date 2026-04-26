@@ -1,11 +1,11 @@
+from collections import defaultdict
+
 class Solution:
     def groupAnagrams(self, strs):
-        from collections import defaultdict
-        
-        anagram_map = defaultdict(list)
+        groups = defaultdict(list)
         
         for word in strs:
-            key = ''.join(sorted(word))
-            anagram_map[key].append(word)
+            key = ''.join(sorted(word))  # sorted string as key
+            groups[key].append(word)
         
-        return list(anagram_map.values())
+        return list(groups.values())
