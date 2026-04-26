@@ -3,22 +3,29 @@ class Solution:
         candidates.sort()
         result = []
         
-        def backtrack(start, path, total):
-            if total == target:
+        def backtrack(start, path, target):
+            # Base case
+            if target == 0:
                 result.append(path[:])
                 return
             
-            if total > target:
-                return
-            
             for i in range(start, len(candidates)):
-                
+                # Skip duplicates
                 if i > start and candidates[i] == candidates[i - 1]:
                     continue
                 
+                # Stop early if number exceeds target
+                if candidates[i] > target:
+                    break
+                
+                # Choose element
                 path.append(candidates[i])
-                backtrack(i + 1, path, total + candidates[i])  
+                
+                # Move to next index (i+1 → no reuse)
+                backtrack(i + 1, path, target - candidates[i])
+                
+                # Backtrack
                 path.pop()
         
-        backtrack(0, [], 0)
+        backtrack(0, [], target)
         return result
