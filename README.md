@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0135-candy) |
 | [0287-find-the-duplicate-number](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Search
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0135-candy) |
 ## Trie
 |  |
 | ------- |
