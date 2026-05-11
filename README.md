@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1914-cyclically-rotating-a-grid) |
+| [2553-separate-the-digits-in-an-array](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0068-text-justification) |
 | [1914-cyclically-rotating-a-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1914-cyclically-rotating-a-grid) |
+| [2553-separate-the-digits-in-an-array](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Combinatorics
 |  |
 | ------- |
